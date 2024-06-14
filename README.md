@@ -12,7 +12,7 @@ Este proyecto utiliza como base un dataset de radiografías de tórax de niños 
 4. [Modelo](#modelo)
 5. [Análisis exploratorio](#análisis-exploratorio)
 6. [Transformación de imágenes](#transformación-de-imágenes)
-7. [Autores](#autores)
+7. [Autor](#autor)
 8. [Licencia](#licencia)
 9. [Agradecimientos](#agradecimientos)
 
