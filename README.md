@@ -6,15 +6,15 @@ Este proyecto utiliza como base un dataset de radiografías de tórax de niños 
 
 # Tabla de contenidos
 
-1. [Instalación] (#instalación)
-2. [Uso] (#uso)
-3. [Estructura de directorios] (#estructura-de-directorios)
-4. [Modelo] (#modelo)
-5. [Análisis exploratorio] (#análisis-exploratorio)
-6. [Transformación de imágenes] (#transformación-de-imágenes)
-7. [Autores] (#autores)
-8. [Licencia] (#licencia)
-9. [Agradecimiento] (#agradecimiento)
+1. [Instalación](#instalación)
+2. [Uso](#uso)
+3. [Estructura de directorios](#estructura-de-directorios)
+4. [Modelo](#modelo)
+5. [Análisis exploratorio](#análisis-exploratorio)
+6. [Transformación de imágenes](#transformación-de-imágenes)
+7. [Autores](#autores)
+8. [Licencia](#licencia)
+9. [Agradecimientos](#agradecimientos)
 
 #  Instalación
 
