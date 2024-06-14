@@ -1,5 +1,19 @@
+# UTILIZACIÓN DE REDES NEURONALES PARA LA DETECCIÓN DE NEUMONÍA
+
 # Descripción del proyecto
-Es una API que sirve para detectar neumonía en radiografías de tórax
+Este proyecto utiliza como base un dataset de radiografías de tórax de niños del Centro para Mujeres y Niños de Cantón, China, para entrenar un modelo de clasificación binaria que determina si una radiografía presenta signos de neumonía o no.
+
+# Tabla de contenidos
+
+1. [Instalación] (#instalación)
+2. [Ejemplo de uso] (#uso)
+3. [Estructura de directorios] (#estructura-de-directorios)
+4. [Modelo]
+5. [Análisis exploratorio]
+6. [Transformación de imágenes]
+7. [Autores]
+8. [Licencia]
+9. [Agradecimiento]
 
 # Instalación
 Se debe crear un entorno virtual limpio
@@ -62,3 +76,12 @@ Para que las imágenes fueran procesadas correctamente, fueron:
 2. Convertidas a escala de grises.
 3. Para que tuvieran el mismo alto y ancho, sin que perdieran la calidad, se le aplicó padding a todas las imágenes para que quedaran en 1440x1440 píxeles.
 4. Luego, fueron nuevamente redimensionadas a 720x720 píxeles para que pudieran ser procesadas sin problemas.
+
+# Autor
+
+# Licencia
+
+
+# Agradecimientos
+
+A los profesores y compañeros del Bootcamp de Ciencia de Datos e Inteligencia Artificial de la Universidad del Desarrollo, Santiago, Chile.
