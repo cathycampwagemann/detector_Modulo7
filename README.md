@@ -91,7 +91,7 @@ Puedes descargar el dataset en el siguiente enlace: https://drive.google.com/fil
 
 También puedes descargar el dataframe creado a partir del dataset en el siguiente enlace: https://drive.google.com/file/d/1sN2rvCDgIcXmjCeJG2EmllCb2un4cddc/view?usp=sharing
 
-#  Tansformación de imágenes
+#  Transformación de imágenes
 
 Para que las imágenes fueran procesadas correctamente, fueron:
 
